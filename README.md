@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tylerallen14
-- 🌱 I’m currently enrolled in Cal Poly's M.S. Business Analytics program
-- ⚡ Currently in search of an analytics-based role after graduation in June 2024
+- 🌱 I’m a recent graduate of Cal Poly's M.S. Business Analytics program
+- ⚡ Currently in search of an analytics-based role starting August 2025
 - 📫 How to reach me email: tylerwilliamallen14@gmail.com | LinkedIn: https://www.linkedin.com/in/tyler-w-allen/
 
 <!---
