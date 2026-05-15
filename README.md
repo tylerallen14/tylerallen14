@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tylerallen14
 - 🌱 I’m a recent graduate of Cal Poly's M.S. Business Analytics program
-- 📫 Currently working for First San Francisco Partners as an analyst
+- 📫 Currently working for First San Francisco Partners as an AI Enablement Engineer I
 - ⚡ How to reach me email: tylerwilliamallen14@gmail.com | LinkedIn: https://www.linkedin.com/in/tyler-w-allen/
 
 <!---
